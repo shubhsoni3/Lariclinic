@@ -410,43 +410,42 @@ const testimonialData = [
 const postData = [
   {
     img: "images/blog1.jpg",
-    videoUrl: "https://www.youtube.com/embed/9yNMMmL6Nys?si=4XzgvmsS_UiY8OQz",
-    title:
-      "Dil kee dhadakan ka achaanak badhna. agar dil kee dhadakan achaanak badh jae to kya karen?",
-    date: "OCt, 2023",
+    videoUrl: "https://www.youtube.com/embed/97KEoYA9ejk?si=zz-2s2xYn2h0QZbV",
+    title: "Patient Feedback.......",
+    date: "June, 2024",
     author: " Dr.Ashish Tiwari",
     authorLink: " ",
-    postLink: "https://www.youtube.com/embed/9yNMMmL6Nys?si=4XzgvmsS_UiY8OQz",
+    postLink: "https://www.youtube.com/embed/97KEoYA9ejk?si=zz-2s2xYn2h0QZbV",
   },
   {
     img: "images/blog2.jpg",
-    videoUrl: "https://www.youtube.com/embed/e55MXRlnjr0?si=Kyx_mLENjpTO24Yd",
+    videoUrl: "https://www.youtube.com/embed/siNs1MXzxlQ?si=eL-n-DQVpAs0nKtv",
+    title: "एंजियोप्लास्टी क्या है?",
+    date: "June, 2024",
+    author: " Dr.Ashish Tiwari",
+    authorLink: "",
+    postLink: "https://www.youtube.com/embed/siNs1MXzxlQ?si=eL-n-DQVpAs0nKtv",
+  },
+  {
+    img: "images/blog3.jpg",
+    videoUrl: "https://www.youtube.com/embed/GXnqIWEk8HA?si=gOryUOeBubjOYGit",
     title:
-      "Distinguishing Atrial Fibrillation from Regular Health Rhythm | Unveiling the Contrasts",
-    date: "Feb, 2024",
+      "Patient Reviews: Dr. Ashish Tiwari, LARI Heart Care Centre Jabalpur",
+    date: "June, 2024",
     author: " Dr.Ashish Tiwari",
     authorLink: "",
-    postLink: "https://www.youtube.com/embed/e55MXRlnjr0?si=Kyx_mLENjpTO24Yd",
+    postLink: "https://www.youtube.com/embed/GXnqIWEk8HA?si=gOryUOeBubjOYGit",
   },
-  {
-    img: "images/blog3.jpg",
-    videoUrl: "https://www.youtube.com/embed/TAoyHt6uYgw?si=kpQYblrvR-cdj6m3",
-    title: "Aapako apana Cardiac check kab karavaana chaahie?",
-    date: "Nov, 2023",
-    author: " Dr.Ashish Tiwari",
-    authorLink: "",
-    postLink: "https://www.youtube.com/embed/TAoyHt6uYgw?si=kpQYblrvR-cdj6m3",
-  },
-  {
-    img: "images/blog3.jpg",
-    videoUrl: "https://www.youtube.com/embed/z4mbnJeXJbk?si=3kALj5ieq9PmUj0c",
-    title: "Child’s first hospital visit",
-    date: "OCt, 2023",
-    author: " Dr.Ashish Tiwari",
-    authorLink: "",
+  // {
+  //   img: "images/blog3.jpg",
+  //   videoUrl: "https://www.youtube.com/embed/z4mbnJeXJbk?si=3kALj5ieq9PmUj0c",
+  //   title: "Child’s first hospital visit",
+  //   date: "OCt, 2023",
+  //   author: " Dr.Ashish Tiwari",
+  //   authorLink: "",
 
-    postLink: "https://www.youtube.com/embed/z4mbnJeXJbk?si=3kALj5ieq9PmUj0c",
-  },
+  //   postLink: "https://www.youtube.com/embed/z4mbnJeXJbk?si=3kALj5ieq9PmUj0c",
+  // },
 ];
 const departmentData = [
   {
