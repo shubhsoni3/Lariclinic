@@ -215,199 +215,17 @@ const testimonialData = [
   },
 ];
 
-// const priceData = [
-//   {
-//     title: "Blood Test",
-//     price: "39",
-//     featureList: [
-//       {
-//         title: "First Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Second Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Third Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fourth Description",
-//         status: "0",
-//       },
-//       {
-//         title: "Fifth Description",
-//         status: "0",
-//       },
-//     ],
-//   },
-//   {
-//     title: "Hemoglobin Test",
-//     price: "89",
-//     featureList: [
-//       {
-//         title: "First Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Second Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Third Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fourth Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fifth Description",
-//         status: "0",
-//       },
-//     ],
-//   },
-//   {
-//     title: "Homocysteine Test",
-//     price: "150",
-//     featureList: [
-//       {
-//         title: "First Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Second Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Third Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fourth Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fifth Description",
-//         status: "1",
-//       },
-//     ],
-//   },
-//   {
-//     title: "Blood Test",
-//     price: "39",
-//     featureList: [
-//       {
-//         title: "First Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Second Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Third Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fourth Description",
-//         status: "0",
-//       },
-//       {
-//         title: "Fifth Description",
-//         status: "0",
-//       },
-//     ],
-//   },
-//   {
-//     title: "Hemoglobin Test",
-//     price: "89",
-//     featureList: [
-//       {
-//         title: "First Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Second Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Third Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fourth Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fifth Description",
-//         status: "0",
-//       },
-//     ],
-//   },
-//   {
-//     title: "Homocysteine Test",
-//     price: "150",
-//     featureList: [
-//       {
-//         title: "First Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Second Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Third Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fourth Description",
-//         status: "1",
-//       },
-//       {
-//         title: "Fifth Description",
-//         status: "1",
-//       },
-//     ],
-//   },
-// ];
-
-// const faqData = {
-//   title: "Just Answer the Questions",
-//   img: "images/faq-img.png",
-//   bgImg: "shape/faq-bg.svg",
-//   faqItems: [
-//     {
-//       title: "What is Medi solution?",
-//       content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
-//     },
-//     {
-//       title: "How do I get a refill on my prescription?",
-//       content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
-//     },
-//     {
-//       title: "How competent our total treatment?",
-//       content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
-//     },
-//     {
-//       title: "If I get sick what should I do?",
-//       content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
-//     },
-//     {
-//       title: "What is emergency cary to your hospital?",
-//       content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
-//     },
-//   ],
-// };
-
-// const newsletterData = {
-//   bgImg: "images/news-letter-bg.png",
-//   contact: "(+01) - 234 567 890",
-// };
-
 const postData = [
+  {
+    img: "images/blog1.jpg",
+    videoUrl: "https://www.youtube.com/embed/jxH_lb7Z4BY?si=QSMBja9fcj44tmcT",
+    title:
+      "Angiography: Dr. Ashish Tiwari's Expert Insights on Heart Health | LARI Heart Care Centre Jabalpur",
+    date: "June, 2024",
+    author: " Dr.Ashish Tiwari",
+    authorLink: " ",
+    postLink: "https://www.youtube.com/embed/jxH_lb7Z4BY?si=QSMBja9fcj44tmcT",
+  },
   {
     img: "images/blog1.jpg",
     videoUrl: "https://www.youtube.com/embed/97KEoYA9ejk?si=zz-2s2xYn2h0QZbV",
@@ -426,26 +244,6 @@ const postData = [
     authorLink: "",
     postLink: "https://www.youtube.com/embed/siNs1MXzxlQ?si=eL-n-DQVpAs0nKtv",
   },
-  {
-    img: "images/blog3.jpg",
-    videoUrl: "https://www.youtube.com/embed/GXnqIWEk8HA?si=gOryUOeBubjOYGit",
-    title:
-      "Patient Reviews: Dr. Ashish Tiwari, LARI Heart Care Centre Jabalpur",
-    date: "June, 2024",
-    author: " Dr.Ashish Tiwari",
-    authorLink: "",
-    postLink: "https://www.youtube.com/embed/GXnqIWEk8HA?si=gOryUOeBubjOYGit",
-  },
-  // {
-  //   img: "images/blog3.jpg",
-  //   videoUrl: "https://www.youtube.com/embed/z4mbnJeXJbk?si=3kALj5ieq9PmUj0c",
-  //   title: "Child’s first hospital visit",
-  //   date: "OCt, 2023",
-  //   author: " Dr.Ashish Tiwari",
-  //   authorLink: "",
-
-  //   postLink: "https://www.youtube.com/embed/z4mbnJeXJbk?si=3kALj5ieq9PmUj0c",
-  // },
 ];
 const departmentData = [
   {
@@ -507,49 +305,6 @@ const departmentData = [
   },
 ];
 
-// const brandData = [
-//   {
-//     bg: "orange",
-//     img: "images/client1.png",
-//   },
-//   {
-//     bg: "blue",
-//     img: "images/client2.png",
-//   },
-//   {
-//     bg: "red",
-//     img: "images/client3.png",
-//   },
-//   {
-//     bg: "green",
-//     img: "images/client4.png",
-//   },
-//   {
-//     bg: "dip-blue",
-//     img: "images/client5.png",
-//   },
-//   {
-//     bg: "orange",
-//     img: "images/client1.png",
-//   },
-//   {
-//     bg: "blue",
-//     img: "images/client2.png",
-//   },
-//   {
-//     bg: "red",
-//     img: "images/client3.png",
-//   },
-//   {
-//     bg: "green",
-//     img: "images/client4.png",
-//   },
-//   {
-//     bg: "dip-blue",
-//     img: "images/client5.png",
-//   },
-// ];
-
 const mapLocationURL = "";
 
 const Home = () => {
@@ -577,13 +332,8 @@ const Home = () => {
       {/* ********Using This Again ********** */}
       <TestimonialSlider data={testimonialData} />
 
-      {/* <Funfact /> */}
-      {/* <PriceSlider data={priceData} /> */}
-      {/* <Accordion data={faqData} /> */}
-      {/* <Newsletter data={newsletterData} /> */}
-
       {/* ********Using This Again ********** */}
-      <PostWrapper data={postData} />
+      <PostWrapper />
       {/* <BrandSlider data={brandData} /> */}
       <Contact />
       <LocationInMap data={mapLocationURL} />

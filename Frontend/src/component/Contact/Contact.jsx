@@ -53,7 +53,7 @@ const Contact = () => {
       <div className="st-shape2">
         <img src="shape/contact-shape2.svg" alt="shape2" />
       </div>
-      <div className="st-height-b120 st-height-lg-b80" />
+      <div className="st-height-b120 " />
       <SectionHeading
         title="Stay connect with us"
         subTitle="Stay connected with our cardiology hospital for updates on treatments, events, and <br/> advancements in cardiovascular care. Your heart health matters."
