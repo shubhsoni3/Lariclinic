@@ -137,58 +137,6 @@ const Appointment = () => {
                   </div>
                 </div>
 
-                {/* <div className="col-lg-6">
-                  <div className="st-form-field st-style1">
-                    <label>Department</label>
-                    <div className="st-custom-select-wrap">
-                      <select
-                        name="department"
-                        id="department"
-                        className="st_select1"
-                        data-placeholder="Select department"
-                        onChange={handleInputChange}
-                        value={formData.department}
-                        required
-                      >
-                        <option>Select Department</option>
-                        <option value="dental-care">Dental Care</option>
-                        <option value="neurology">Neurology</option>
-                        <option value="crutches">Crutches</option>
-                        <option value="cardiology">Cardiology</option>
-                        <option value="pulmonary">Pulmonary</option>
-                        <option value="x-ray">X-Ray</option>
-                      </select>
-                    </div>
-                  </div>
-                </div> */}
-
-                {/* <div className="col-lg-6">
-                  <div className="st-form-field st-style1">
-                    <label>Doctor</label>
-                    <div className="st-custom-select-wrap">
-                      <select
-                        name="doctor"
-                        className="st_select1"
-                        id="doctor"
-                        data-placeholder="Select doctor"
-                        onChange={handleInputChange}
-                        value={formData.doctor}
-                        required
-                      >
-                        <option>Select Doctor</option>
-                        <option value="jhon-doe">Dr. Jhon Doe</option>
-                        <option value="mak-rushi">Dr. Mak Roshi</option>
-                        <option value="mohoshin-kabir">
-                          Dr. Mohoshin Kabir
-                        </option>
-                        <option value="nayon-borua">Dr. Nayon Borua</option>
-                        <option value="rasel-islam">Dr. Rasel Islam</option>
-                        <option value="mahid-islam">Dr. Mahid Islam</option>
-                      </select>
-                    </div>
-                  </div>
-                </div> */}
-
                 <div className="col-lg-12">
                   <div className="st-form-field st-style1">
                     <label>Message</label>

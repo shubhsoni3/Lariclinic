@@ -123,7 +123,7 @@ const Contact = () => {
                 <div className="st-form-field st-style1">
                   <label>Phone</label>
                   <input
-                    type="text"
+                    type="number"
                     id="phone"
                     name="phone"
                     placeholder="+91 - 7000XXXXXX"
